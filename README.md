@@ -17,7 +17,7 @@ It configures the Working directory to be `/app`.
 To build base, execute the following:
 
 ```bash
-docker build -t git-base .
+docker build -t docker-base .
 ```
 
 ### Using the Base Image
